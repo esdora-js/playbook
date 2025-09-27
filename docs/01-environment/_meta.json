@@ -9,11 +9,6 @@
     "type": "dir",
     "name": "windows",
     "label": "Windows"
-  },
-  {
-    "type": "dir",
-    "name": "macos",
-    "label": "MacOS"
   }
 
 ]
