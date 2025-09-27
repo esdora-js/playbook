@@ -1,0 +1,23 @@
+[
+  {
+    "text": "快速开始",
+    "link": "/guide/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "核心指南",
+    "items": [
+      { "text": "01 环境搭建", "link": "/01-environment" },
+      { "text": "02 协作规范", "link": "/02-conventions" },
+      { "text": "03 代码食谱", "link": "/03-recipes" },
+      { "text": "04 实战演练", "link": "/04-use-cases" },
+      { "text": "05 核心概念", "link": "/05-concepts" },
+      { "text": "06 设计原则", "link": "/06-principles" }
+    ]
+  },
+  {
+    "text": "关于",
+    "link": "/about/",
+    "activeMatch": "/about/"
+  }
+]

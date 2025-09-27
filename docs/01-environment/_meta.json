@@ -1,0 +1,19 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "指引"
+  },
+
+  {
+    "type": "dir",
+    "name": "windows",
+    "label": "Windows"
+  },
+  {
+    "type": "dir",
+    "name": "macos",
+    "label": "MacOS"
+  }
+
+]

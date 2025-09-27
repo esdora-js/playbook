@@ -1,0 +1,33 @@
+[
+  "index",
+  {
+    "label": "01 环境搭建",
+    "type": "custom-link",
+    "link": "/01-environment"
+  },
+  {
+    "label": "02 协作规范",
+    "type": "custom-link",
+    "link": "/02-conventions"
+  },
+  {
+    "label": "03 代码食谱",
+    "type": "custom-link",
+    "link": "/03-recipes"
+  },
+  {
+    "label": "04 实战演练",
+    "type": "custom-link",
+    "link": "/04-use-cases"
+  },
+  {
+    "label": "05 核心概念",
+    "type": "custom-link",
+    "link": "/05-concepts"
+  },
+  {
+    "label": "06 设计原则",
+    "type": "custom-link",
+    "link": "/06-principles"
+  }
+]
