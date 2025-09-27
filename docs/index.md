@@ -9,8 +9,8 @@ hero:
       text: 快速开始
       link: /guide/index
     - theme: alt
-      text: 查看所有战术
-      link: /tactics/overview
+      text: 关于
+      link: /about/index
   image:
     src: /logo-avatar.png
     alt: Dora Playbook Logo
