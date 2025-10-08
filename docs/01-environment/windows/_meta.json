@@ -1,7 +1,7 @@
 [
   {
     "type": "dir",
-    "name": "wsl",
-    "label": "WSL的使用"
+    "name": "wsl2",
+    "label": "WSL2 的使用"
   }
 ]
