@@ -9,6 +9,11 @@
     "type": "dir",
     "name": "windows",
     "label": "Windows"
-  }
+  },
 
+  {
+    "type": "dir",
+    "name": "terminal",
+    "label": "终端"
+  }
 ]
