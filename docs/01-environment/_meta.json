@@ -9,6 +9,11 @@
     "type": "dir",
     "name": "windows",
     "label": "Windows"
-  }
+  },
 
+  {
+    "type": "dir",
+    "name": "develop",
+    "label": "开发"
+  }
 ]
